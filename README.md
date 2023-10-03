@@ -1,6 +1,8 @@
 # ContadorBases
 Contador de bases nitrogenadas feito em Assembly para o montador MASM, seguindo a arquitetura do processador INTEL 8086. O projeto foi desenvolvido na disciplina de arquitetura de computadores I da UFRGS, semesre 2023/1.
 
+Esse programa requer o sistema operacional DOS para rodar, podendo ser emulado através do DOSBOX. É necessário montar o programa através do MASM 6.11.
+
 Chamda do programa:
 trabalho.asm [parametros]
 
